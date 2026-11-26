@@ -1,0 +1,8 @@
+bin/
+obj/
+dist/
+.vs/
+.dotnet/
+*.user
+*.suo
+*.log
